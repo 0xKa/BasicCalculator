@@ -1,0 +1,10 @@
+F:\ProgrammingAdvices\Course 14 - C# lvl1\_My Projects\BasicCalculator\bin\Debug\BasicCalculator.exe.config
+F:\ProgrammingAdvices\Course 14 - C# lvl1\_My Projects\BasicCalculator\bin\Debug\BasicCalculator.exe
+F:\ProgrammingAdvices\Course 14 - C# lvl1\_My Projects\BasicCalculator\bin\Debug\BasicCalculator.pdb
+F:\ProgrammingAdvices\Course 14 - C# lvl1\_My Projects\BasicCalculator\obj\Debug\BasicCalculator.csproj.AssemblyReference.cache
+F:\ProgrammingAdvices\Course 14 - C# lvl1\_My Projects\BasicCalculator\obj\Debug\BasicCalculator.Form1.resources
+F:\ProgrammingAdvices\Course 14 - C# lvl1\_My Projects\BasicCalculator\obj\Debug\BasicCalculator.Properties.Resources.resources
+F:\ProgrammingAdvices\Course 14 - C# lvl1\_My Projects\BasicCalculator\obj\Debug\BasicCalculator.csproj.GenerateResource.cache
+F:\ProgrammingAdvices\Course 14 - C# lvl1\_My Projects\BasicCalculator\obj\Debug\BasicCalculator.csproj.CoreCompileInputs.cache
+F:\ProgrammingAdvices\Course 14 - C# lvl1\_My Projects\BasicCalculator\obj\Debug\BasicCalculator.exe
+F:\ProgrammingAdvices\Course 14 - C# lvl1\_My Projects\BasicCalculator\obj\Debug\BasicCalculator.pdb
